@@ -2,4 +2,4 @@
 
 Entity Linking (more specifically, Deduplication or Entity Resolution) on data for Bulgarian Election candidates, using data queried from elections.ontotext.com
 
-Note: the *query_result_municipal.csv* has to first be unpacked due to its size
+Note: the *query_result_municipal.csv* file has to first be unpacked due to its size
